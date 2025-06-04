@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Adrik113
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Recent graduate from ECPI University with a Bachelor of Science in Software Development
+💻 Junior Software Developer | Detail-oriented | Motivated | Quick learner
+🌱 Currently exploring: Backend development, Kotlin, JavaScript, and cloud technologies
+📌 Open to junior developer opportunities and collaborative projects
+📫 Reach me at: Adrikwarren@gmail.com 
+🔗 LinkedIn: www.linkedin.com/in/adrik-warren/
 
-<!---
-Adrik113/Adrik113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
